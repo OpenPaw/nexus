@@ -5,3 +5,6 @@
 - `🦾` It uses OpenPaw software as a proxy
 - `🖥️` Requires a local machine (a good control station) that can run large language models efficiently, otherwise it will be super slow
 - `⏰` Completely real-time (*unless your network is slow, minimum Wi-Fi 4 or 5-gigabit Ethernet connection recommended)
+
+## Considerations
+It is recommended that you get a GPU that can run both of these models efficiently and effectively. Aim for a GPU that has at least 12GB of VRAM and a lot of CUDA cores.
